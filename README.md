@@ -7,6 +7,12 @@ To run this bot, open the command prompt and enter the following commands:
 
 when you run python view.py or ./view.py file it ask...
 
+# Use these Extension to bypass location...
+
+https://chromewebstore.google.com/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno?hl=en
+
+
+
 Enter YouTube URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 Enter refresh rate (seconds): 30
